@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Adi4999
-- 👀 Interested in Web development
 - 🌱 Currently learning JS,React and etc...
 - 📫 How to reach me : - @adi_singh_kalhans (instagram)
 
